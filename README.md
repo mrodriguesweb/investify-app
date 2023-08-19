@@ -45,3 +45,12 @@ Eu sigo a metodologia de investimento BUY AND HOLD, que basicamente é uma forma
 ### Ações - Lançamentos
 ![image](https://github.com/mrodriguesweb/investify-app/assets/80855310/0e78b226-f601-4b5f-affa-0032d6bcafaa)
 *É possivel alterar ou deletar um lançamento, basta clicar algum.
+
+### Gráficos - Aportes
+![image](https://github.com/mrodriguesweb/investify-app/assets/80855310/65c054d9-98b4-44d0-bdb2-b9c8844d0ddc)
+
+### Gráficos - Por Setor
+![image](https://github.com/mrodriguesweb/investify-app/assets/80855310/177c42bb-1a8a-40f5-89d7-2e02d080430f)
+
+### Gráficos - Todos os Ativos
+![image](https://github.com/mrodriguesweb/investify-app/assets/80855310/9eef5911-edf0-4791-81bc-eb7c79a92902)
